@@ -19,6 +19,7 @@
 | 💼 | [**Office Productivity**](skills/30-office-productivity.md) | **通用办公自动化**<br>Word, Excel, PPT, PDF 处理 (通用版)。 |
 | 🎨 | [**Creative & Design**](skills/40-creative-design.md) | **创意与设计**<br>品牌一致性、算法艺术、网页资产生成。 |
 | ✍️ | [**Writing & Comms**](skills/50-writing-comm.md) | **写作与沟通**<br>商务沟通、协作撰写、文档润色。 |
+| 🧬 | [**Context Engineering**](skills/60-context-engineering.md) | **上下文与架构工程**<br>上下文优化、多智能体模式、Agent 评估体系。 |
 
 ---
 
