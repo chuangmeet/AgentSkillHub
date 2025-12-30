@@ -8,15 +8,17 @@
 
 ## 🗂️ 分类导航 (Categories)
 
-我们已将 Skills 按领域进行分类，请点击下方标题进入具体列表：
+我们采用 **"领域 -> 场景"** 的分类方式，请点击下方链接查看具体资源：
 
-| 图标 | 分类名称 | 描述 |
+| 📂 | 领域 (Domain) | 包含内容 |
 | :---: | :--- | :--- |
-| 🏛️ | [**Official & Core**](skills/official.md) | **官方核心标准**<br>Anthropic 官方范例、MCP 协议参考实现等基础设施。 |
-| 📚 | [**Collections**](skills/collections.md) | **综合集合**<br>社区维护的大型列表和综合工具集。 |
-| 💻 | [**Development & DevOps**](skills/development.md) | **开发与运维**<br>Unity, Kubernetes, Git 等编程相关能力。 |
-| 🧠 | [**Research & Logic**](skills/research.md) | **学术与逻辑**<br>Context Engineering, 论文辅助与推理增强。 |
-| 🔧 | [**Productivity Tools**](skills/productivity.md) | **效率工具**<br>文档处理、记忆增强与日常办公插件。 |
+| 🛠️ | [**Meta Tooling**](skills/00-meta-tooling.md) | **元工具与开发流**<br>用于创建、测试和标准化 Skill 本身的工具。 |
+| ☁️ | **DevOps & Cloud** | **云原生与运维**<br>AWS, K8s, Terraform, CI/CD, SRE。<br>🔗 [进入 Cloud Infrastructure](skills/devops/cloud-infrastructure.md) |
+| 💻 | **Development** | **软件开发**<br>前端资产、创意编程与游戏开发。<br>🔗 [Web & Assets](skills/development/web-assets.md) <br>🔗 [Creative & Game Dev](skills/development/creative-game-dev.md) |
+| ⚖️ | [**Legal & Compliance**](skills/20-legal-compliance.md) | **法律与合规**<br>合同审查、GDPR/隐私政策、法律专用文档处理。 |
+| 💼 | [**Office Productivity**](skills/30-office-productivity.md) | **通用办公自动化**<br>Word, Excel, PPT, PDF 处理 (通用版)。 |
+| 🎨 | [**Creative & Design**](skills/40-creative-design.md) | **创意与设计**<br>品牌一致性、算法艺术、网页资产生成。 |
+| ✍️ | [**Writing & Comms**](skills/50-writing-comm.md) | **写作与沟通**<br>商务沟通、协作撰写、文档润色。 |
 
 ---
 
@@ -24,7 +26,7 @@
 
 我们非常欢迎社区贡献！如果你发现了好用的 Skill，请通过以下方式提交：
 
-1. **推荐方式**：点击 [这里提交 Issue](https://github.com/chuangmeet/AgentSkillHub/issues/new?template=submit_skill.yml)。
+1. **推荐方式**：点击 [这里提交 Issue](https://github.com/YourUsername/AgentSkillHub/issues/new?template=submit_skill.yml)。
 2. 或者直接提交 Pull Request 修改 `skills/` 文件夹下的对应文件。
 
 ---
