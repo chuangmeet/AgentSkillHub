@@ -1,0 +1,46 @@
+name: ➕ 提交新的 Agent Skill
+description: 推荐一个现有的 Agent Skill 仓库或 Gist
+title: "[Skill]: "
+labels: ["submission"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Skill 名称
+      description: 例如：Python Data Analyst
+      placeholder: 请输入 Skill 名称
+    validations:
+      required: true
+  
+  - type: input
+    id: link
+    attributes:
+      label: 仓库链接
+      description: GitHub 仓库、Gist 或其他公开链接
+      placeholder: https://github.com/...
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 简介
+      description: 这个 Skill 是用来做什么的？
+      placeholder: 这是一个用于数据可视化的 Skill...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分类
+      options:
+        - 💻 Coding & DevOps
+        - 📝 Writing & Content
+        - 📊 Data & Research
+        - 🛡️ Security
+        - 🔧 Utilities
+        - 🌍 Web & Browser
+        - 🧩 Other
+    validations:
+      required: true
