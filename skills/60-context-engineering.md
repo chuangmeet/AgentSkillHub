@@ -56,3 +56,22 @@
 - [**advanced-evaluation**](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/advanced-evaluation)
     - **简介**: 掌握 LLM-as-a-Judge 高级技术，包括直接评分、成对比较（Pairwise Comparison）、评分标准生成（Rubric Generation）及偏见缓解。
     - **标签**: `LLM-as-a-Judge`, `Metrics`
+
+
+## Agent Architecture
+- [**dispatching-parallel-agents**](https://github.com/abubakarsiddik31/claude-skills-collection/tree/main/dispatching-parallel-agents)
+    - **简介**: 协调多个 Claude 子代理（Sub-agents）并行处理任务。
+    - **标签**: `Multi-Agent`, `Orchestration`, `Parallelism`
+
+- [**subagent-driven-development**](https://github.com/abubakarsiddik31/claude-skills-collection/tree/main/subagent-driven-development)
+    - **简介**: 将复杂的开发任务拆解，并分发给专门的编码子代理去执行。
+    - **标签**: `Agentic`, `Development`, `Workflow`
+
+## Context & Memory
+- [**remembering-conversations**](https://github.com/abubakarsiddik31/claude-skills-collection/tree/main/remembering-conversations)
+    - **简介**: 允许 Claude 回忆过去会话中的事实、见解和上下文，增强连贯性。
+    - **标签**: `Memory`, `Long-term Recall`, `Context`
+
+- [**context-optimization**](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-optimization)
+    - **简介**: 应用压缩、掩码和缓存策略来优化上下文使用效率。
+    - **标签**: `Optimization`, `Token Efficiency`, `Cost`
