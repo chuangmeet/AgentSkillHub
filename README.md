@@ -21,6 +21,7 @@
 | ✍️ | [**Writing & Comms**](skills/50-writing-comm.md) | **写作与沟通**<br>商务沟通、协作撰写、文档润色。 |
 | 🧬 | [**Context Engineering**](skills/60-context-engineering.md) | **上下文与架构工程**<br>上下文优化、多智能体模式、Agent 评估体系。 |
 | 🛡️ | [**Security & Audit**](skills/70-security-audit.md) | **安全与审计**<br>Skill 安全扫描、MCP 服务器风险评估与漏洞检测。 |
+| 🚀 | [**DSPy Engineering**](skills/80-dspy-engineering.md) | **DSPy 工程与优化**<br>Prompt 编程、自动优化器、RAG 流水线编译。 |
 
 ---
 
