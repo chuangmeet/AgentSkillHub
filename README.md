@@ -13,13 +13,14 @@
 | 📂 | 领域 (Domain) | 包含内容 |
 | :---: | :--- | :--- |
 | 🛠️ | [**Meta Tooling**](skills/00-meta-tooling.md) | **元工具与开发流**<br>用于创建、测试和标准化 Skill 本身的工具。 |
-| ☁️ | **DevOps & Cloud** | **云原生与运维**<br>AWS, K8s, Terraform, CI/CD, SRE。<br>🔗 [ Cloud Infrastructure](skills/devops/cloud-infrastructure.md) |
+| ☁️ | **DevOps & Cloud** | **云原生与运维**<br>AWS, K8s, Terraform, CI/CD, SRE。<br>🔗 [进入 Cloud Infrastructure](skills/devops/cloud-infrastructure.md) |
 | 💻 | **Development** | **软件开发**<br>前端资产、创意编程与游戏开发。<br>🔗 [Web & Assets](skills/development/web-assets.md) <br>🔗 [Creative & Game Dev](skills/development/creative-game-dev.md) |
 | ⚖️ | **Legal & Compliance** | **法律与合规**<br>合同审查、GDPR 合规与法律专用文档。<br>🔗 [Contract & Privacy](skills/20-legal-compliance/contract-privacy.md) <br>🔗 [Legal Ops](skills/20-legal-compliance/legal-ops.md) |
 | 💼 | [**Office Productivity**](skills/30-office-productivity.md) | **通用办公自动化**<br>Word, Excel, PPT, PDF 处理 (通用版)。 |
 | 🎨 | [**Creative & Design**](skills/40-creative-design.md) | **创意与设计**<br>品牌一致性、算法艺术、网页资产生成。 |
 | ✍️ | [**Writing & Comms**](skills/50-writing-comm.md) | **写作与沟通**<br>商务沟通、协作撰写、文档润色。 |
 | 🧬 | [**Context Engineering**](skills/60-context-engineering.md) | **上下文与架构工程**<br>上下文优化、多智能体模式、Agent 评估体系。 |
+| 🛡️ | [**Security & Audit**](skills/70-security-audit.md) | **安全与审计**<br>Skill 安全扫描、MCP 服务器风险评估与漏洞检测。 |
 
 ---
 
