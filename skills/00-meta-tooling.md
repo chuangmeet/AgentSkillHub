@@ -2,19 +2,26 @@
 
 [🔙 返回首页](../README.md)
 
-> 用于生成、管理、加载或标准化 Agent Skill 本身的工具，是构建 Agent 生态系统的基石。
+> 用于生成、管理、加载或标准化 Agent Skill 本身的工具。
 
-## Skill Management & Loaders (管理与加载工具)
-*用于在不同 Agent（Claude, Cursor, Windsurf）之间安装、同步和管理 Skill 的工具。*
-
+## Skill Management (管理与加载)
 - [**openskills**](https://github.com/numman-ali/openskills)
-    - **简介**: 一个通用的 CLI 工具，允许在任何 AI 代码编辑器（如 Cursor, Windsurf, Aider）中使用 Anthropic 标准的 Skills。它支持从 GitHub 安装 Skill、自动更新 `AGENTS.md`、以及在不同项目间共享 Skill 配置。
-    - **核心功能**: `Universal Loading` (通用加载), `Skill Sync` (同步), `Cross-Agent Support` (跨 Agent 支持)。
-    - **标签**: `CLI`, `Infrastructure`, `Productivity`
+    - **简介**: 通用 CLI 工具，支持在 Cursor/Windsurf/Claude 间同步 Skill。
+    - **标签**: `CLI`, `Infrastructure`, `Skill Management`
+
+- [**sharing-skills**](https://github.com/abubakarsiddik31/claude-skills-collection/tree/main/sharing-skills)
+    - **简介**: 用于打包、分发和在团队间共享 Skill 的标准化流程。
+    - **标签**: `Collaboration`, `Workflow`, `Distribution`
 
 ## Skill Development (开发辅助)
-*辅助编写和生成新 Skill 的工具。*
-
 - [**skill-creator**](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
-    - **简介**: 这是一个“元技能”，专门用于指导用户创建新的 Claude Skill。它会引导用户定义技能的目标、生成标准的目录结构、编写符合规范的 YAML Frontmatter 元数据，并创建 SKILL.md 文件。
-    - **标签**: `Meta-tool`, `Development`, `Workflow`
+    - **简介**: 官方元技能，引导用户创建 `SKILL.md` 和 YAML 元数据。
+    - **标签**: `Meta-tool`, `Development`, `Official`
+
+- [**template-skill**](https://github.com/abubakarsiddik31/claude-skills-collection/tree/main/template-skill)
+    - **简介**: 最小化的 Skill 脚手架，包含标准目录结构，适合快速开始。
+    - **标签**: `Scaffold`, `Template`, `Quick Start`
+
+- [**testing-skills-with-subagents**](https://github.com/abubakarsiddik31/claude-skills-collection/tree/main/testing-skills-with-subagents)
+    - **简介**: 使用子代理（Sub-agents）自动测试 Skill 的健壮性和边缘情况。
+    - **标签**: `Testing`, `Agentic`, `QA`
