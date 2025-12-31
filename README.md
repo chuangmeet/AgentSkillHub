@@ -22,7 +22,8 @@
 | 🧬 | [**Context Engineering**](skills/60-context-engineering.md) | **上下文与架构工程**<br>上下文优化、多智能体模式、Agent 评估体系。 |
 | 🛡️ | [**Security & Audit**](skills/70-security-audit.md) | **安全与审计**<br>Skill 安全扫描、MCP 服务器风险评估与漏洞检测。 |
 | 🚀 | [**DSPy Engineering**](skills/80-dspy-engineering.md) | **DSPy 工程与优化**<br>Prompt 编程、自动优化器、RAG 流水线编译。 |
-
+| 🔬 | [**Science & Research**](skills/85-science-research.md) ✨ | **科学与学术**<br>材料模拟、生物信息学与学术研究。 |
+| 🧠 | [**Strategy & Models**](skills/90-strategy-mental-models.md) ✨ | **策略与心智模型**<br>逆向思维、决策框架与困境突破。 |
 ---
 
 ## ➕ How to Contribute (如何提交)
