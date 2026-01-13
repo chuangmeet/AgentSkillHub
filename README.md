@@ -4,7 +4,7 @@
 
 > **专注于收集优质的 Agent Skills 与 MCP 工具，打造最全的 AI 代理能力中心。**
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/YourUsername/AgentSkillHub/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/chuangmeet/AgentSkillHub/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## 🗂️  Categories
