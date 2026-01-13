@@ -9,9 +9,9 @@
 
 ## 🗂️  Categories
 
-我们采用 **"领域 -> 场景"** 的分类方式，请点击下方链接查看具体资源：
+We adopt the classification method of "Domain ->Scene". Please click on the link below to view specific resources:
 
-| 📂 | 领域 (Domain) | 包含内容与链接 |
+| 📂 | Domain | Content Introduction |
 | :---: | :--- | :--- |
 | 🛠️ | [**0. Meta Tooling**](skills/00-Meta-Tooling.md) | **Meta Tooling**<br>Skill creates templates, testing tools, and universal loaders.|
 | ☁️ | [**1. Software Development**](skills/1.Software_Development.md) | **Software Development**<br>Frontend & backend development, API design, code optimization, algorithm implementation, and programming language support.|
@@ -27,12 +27,12 @@
 
 ---
 
-## ➕ How to Contribute (如何提交)
+## ➕ How to Contribute
 
-我们非常欢迎社区贡献！如果你发现了好用的 Skill，请通过以下方式提交：
+We warmly welcome community contributions! If you find a useful Skill, please submit it through the following methods:
 
-1. **推荐方式**：点击 [这里提交 Issue](https://github.com/chuangmeet/AgentSkillHub/issues/new?template=submit_skill.yml)。
-2. 或者直接提交 Pull Request 修改 `skills/` 文件夹下的对应文件。
+1. **Recommended Method**：点击 [ here to submit an Issue.](https://github.com/chuangmeet/AgentSkillHub/issues/new?template=submit_skill.yml)。
+2. 2. Or directly submit a Pull Request to modify the corresponding files in the `skills/` folder.
 
 ---
 *Disclaimer: This repository is for educational and research purposes. Please review the code of any skill before running it locally.*
