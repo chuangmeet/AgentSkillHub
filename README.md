@@ -31,7 +31,7 @@ We adopt the classification method of "Domain ->Scene". Please click on the link
 
 We warmly welcome community contributions! If you find a useful Skill, please submit it through the following methods:
 
-1. **Recommended Method**：点击 [ here to submit an Issue.](https://github.com/chuangmeet/AgentSkillHub/issues/new?template=submit_skill.yml)。
+1. **Recommended Method**：Click [ here to submit an Issue.](https://github.com/chuangmeet/AgentSkillHub/issues/new?template=submit_skill.yml)。
 2. 2. Or directly submit a Pull Request to modify the corresponding files in the `skills/` folder.
 
 ---
