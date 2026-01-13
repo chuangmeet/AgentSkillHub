@@ -12,7 +12,7 @@
 
 | 📂 | 领域 (Domain) | 包含内容与链接 |
 | :---: | :--- | :--- |
-| 🛠️ | [**0. Meta Tooling**](skills/00.Meta Tooling.md) | **元工具与开发流**<br>Skill 创建模板、测试工具与通用加载器。 |
+| 🛠️ | [**0. Meta Tooling**](skills/00.Meta_Tooling.md) | **元工具与开发流**<br>Skill 创建模板、测试工具与通用加载器。 |
 | ☁️ | [**1. Software Development**](skills/1. Software Development.md) | **云原生与运维**<br>AWS, K8s, Terraform, CI/CD。<br>🔗 [Cloud Infrastructure](skills/devops/cloud-infrastructure.md)<br>🔗 [Testing & QA](skills/devops/testing-qa.md) |
 | 💻 | [**2. DevOps & Infrastructure**](skills/2. DevOps & Infrastructure.md) | **软件开发**<br>全栈开发能力。<br>🔗 [Web & Assets](skills/development/web-assets.md)<br>🔗 [Backend & Data](skills/development/backend-data.md)<br>🔗 [Mobile App](skills/development/mobile.md)<br>🔗 [Creative & Game Dev](skills/development/creative-game-dev.md) |
 | ⚖️ | [**3. Data, Science & AI**](skills/3. Data, Science & AI.md) | **法律与合规**<br>合同审查、GDPR 合规。<br>🔗 [Contract & Privacy](skills/20-legal-compliance/contract-privacy.md)<br>🔗 [Legal Ops](skills/20-legal-compliance/legal-ops.md) |
