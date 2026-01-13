@@ -31,7 +31,7 @@
 
 我们非常欢迎社区贡献！如果你发现了好用的 Skill，请通过以下方式提交：
 
-1. **推荐方式**：点击 [这里提交 Issue](https://github.com/YourUsername/AgentSkillHub/issues/new?template=submit_skill.yml)。
+1. **推荐方式**：点击 [这里提交 Issue](https://github.com/chuangmeet/AgentSkillHub/issues/new?template=submit_skill.yml)。
 2. 或者直接提交 Pull Request 修改 `skills/` 文件夹下的对应文件。
 
 ---
