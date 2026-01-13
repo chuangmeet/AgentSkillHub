@@ -1,12 +1,13 @@
 # 🤖 Agent Skill Hub
 
 > A curated collection of Agent Skills, MCP Servers, and Tool definitions for Claude and other AI Agents.
+
 > **专注于收集优质的 Agent Skills 与 MCP 工具，打造最全的 AI 代理能力中心。**
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/YourUsername/AgentSkillHub/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-## 🗂️ 分类导航 (Categories)
+## 🗂️  Categories
 
 我们采用 **"领域 -> 场景"** 的分类方式，请点击下方链接查看具体资源：
 
