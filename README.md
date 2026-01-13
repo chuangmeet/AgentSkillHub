@@ -16,13 +16,13 @@
 | ☁️ | [**1. Software Development**](skills/1.Software_Development.md) | **云原生与运维**<br>AWS, K8s, Terraform, CI/CD。<br>🔗 [Cloud Infrastructure](skills/devops/cloud-infrastructure.md)<br>🔗 [Testing & QA](skills/devops/testing-qa.md) |
 | 💻 | [**2. DevOps & Infrastructure**](skills/2_DevOps&Infrastructure.md) | **软件开发**<br>全栈开发能力。<br>🔗 [Web & Assets](skills/development/web-assets.md)<br>🔗 [Backend & Data](skills/development/backend-data.md)<br>🔗 [Mobile App](skills/development/mobile.md)<br>🔗 [Creative & Game Dev](skills/development/creative-game-dev.md) |
 | ⚖️ | [**3. Data, Science & AI**](skills/3_Data,Science&AI.md) | **法律与合规**<br>合同审查、GDPR 合规。<br>🔗 [Contract & Privacy](skills/20-legal-compliance/contract-privacy.md)<br>🔗 [Legal Ops](skills/20-legal-compliance/legal-ops.md) |
-| 💼 | [**Office Productivity**](skills/30-office-productivity.md) | **通用办公与知识**<br>CSV/EPUB 处理、Notion 集成、知识网络。 |
-| 🎨 | [**Creative & Design**](skills/40-creative-design.md) | **创意与设计**<br>品牌一致性、算法艺术、演示文稿。 |
-| ✍️ | [**Writing & Comms**](skills/50-writing-comm.md) | **写作与沟通**<br>商务沟通、家族史研究、会议分析。 |
-| 🧬 | [**Context Engineering**](skills/60-context-engineering.md) | **上下文与架构**<br>记忆系统、多智能体编排。 |
-| 🛡️ | [**Security & Audit**](skills/70-security-audit.md) | **安全与审计**<br>Fuzzing、漏洞扫描与 MCP 评估。 |
-| 🚀 | [**DSPy Engineering**](skills/80-dspy-engineering.md) | **DSPy 工程与优化**<br>Prompt 编程、自动优化器。 |
-| 🔬 | [**Science & Research**](skills/85-science-research.md) | **科学与学术**<br>材料模拟、生物信息学与学术研究。 |
+| 💼 | [**4. Security & Compliance**](skills/4-Security-Compliance.md) | **通用办公与知识**<br>CSV/EPUB 处理、Notion 集成、知识网络。 |
+| 🎨 | [**5. Design & Creative**](skills/5-Design-Creative.md) | **创意与设计**<br>品牌一致性、算法艺术、演示文稿。 |
+| ✍️ | [**6. Productivity & Automation**](skills/6-Productivity-Automation.md) | **写作与沟通**<br>商务沟通、家族史研究、会议分析。 |
+| 🧬 | [**7. Writing & Documentation**](skills/7-Writing-Documentation.md) | **上下文与架构**<br>记忆系统、多智能体编排。 |
+| 🛡️ | [**8. Business & Operations**](skills/8-Business-Operations.md) | **安全与审计**<br>Fuzzing、漏洞扫描与 MCP 评估。 |
+| 🚀 | [**9. Research & Analysis**](skills/9-Research-Analysis.md) | **DSPy 工程与优化**<br>Prompt 编程、自动优化器。 |
+| 🔬 | [**10. Education & Learning**](skills/10-Education-Learning.md) | **科学与学术**<br>材料模拟、生物信息学与学术研究。 |
 | 🧠 | [**Strategy & Models**](skills/90-strategy-mental-models.md) | **策略与心智模型**<br>逆向思维、决策框架与困境突破。 |
 
 ---
