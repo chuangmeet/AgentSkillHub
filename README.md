@@ -12,9 +12,10 @@
 
 🔥🔥🔥 Help us update the skill list! 🔥🔥🔥
 
-First, check the documentation through our Google Docs: [Agent Skill Hub Docs](https://docs.google.com/spreadsheets/d/1rgEERLO-6CjaPD5NsyNcGNKInyt34tfX/edit?usp=sharing&ouid=108707548759099195696&rtpof=true&sd=true)
-If you want to update the information of a skill (e.g., a skill has new features or bug fixes), search the skill name in our docs table and then leave a message in the corresponding cell of the table.
-If you would like to add a new skill, please submit the information through the following method via [ ISSUE.](https://github.com/chuangmeet/AgentSkillHub/issues/new?template=submit_skill.yml).
+1.First, check the documentation through our Google Docs: [Agent Skill Hub Docs](https://docs.google.com/spreadsheets/d/1rgEERLO-6CjaPD5NsyNcGNKInyt34tfX/edit?usp=sharing&ouid=108707548759099195696&rtpof=true&sd=true)
+2.If you want to update the information of a skill (e.g., a skill has new features or bug fixes), search the skill name in our docs table and then leave a message in the corresponding cell of the table.
+
+3.If you would like to add a new skill, please submit the information through the following method via [ ISSUE.](https://github.com/chuangmeet/AgentSkillHub/issues/new?template=submit_skill.yml).
 
 ## 🗂️  Categories
 
