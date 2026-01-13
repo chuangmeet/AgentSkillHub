@@ -7,6 +7,14 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/chuangmeet/AgentSkillHub/commits/main/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/chuangmeet/AgentSkillHub/issues/new?template=submit_skill.yml)
 
+
+
+🔥🔥🔥 Help us update the skill list! 🔥🔥🔥
+
+First, check the documentation through our Google Docs: [Agent Skill Hub Docs](https://docs.google.com/spreadsheets/d/1rgEERLO-6CjaPD5NsyNcGNKInyt34tfX/edit?usp=sharing&ouid=108707548759099195696&rtpof=true&sd=true)
+
+
+
 ## 🗂️  Categories
 
 We adopt the classification method of "Domain ->Scene". Please click on the link below to view specific resources:
