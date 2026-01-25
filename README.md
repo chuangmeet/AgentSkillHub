@@ -10,9 +10,9 @@
 
 > ### 🔥🔥🔥 Help us update the skill list! 🔥🔥🔥
 >
-> 1. First, check the documentation through our Google Docs: **[Agent Skill Hub Docs](YOUR_DOCS_LINK_HERE)**.
+> 1. First, check the documentation through our Google Docs: **[Agent Skill Hub Docs]([YOUR_DOCS_LINK_HERE](https://docs.google.com/spreadsheets/d/1rgEERLO-6CjaPD5NsyNcGNKInyt34tfX/edit?gid=177695092#gid=177695092))**.
 > 2. If you want to update the information of a skill (e.g., a skill has new features or bug fixes), search the skill name in our docs table and then leave a message in the corresponding cell of the table.
-> 3. If you would like to add a new skill, please submit the information through the following method via **[ISSUE](YOUR_ISSUE_LINK_HERE)**.
+> 3. If you would like to add a new skill, please submit the information through the following method via **[ISSUE]([YOUR_ISSUE_LINK_HERE](https://github.com/chuangmeet/AgentSkillHub/issues/new?template=submit_skill.yml))**.
 
 
 
@@ -23,9 +23,9 @@ We adopt the classification method of "Domain ->Scene". Please click on the link
 | 📂 | Domain | Content Introduction |
 | :---: | :--- | :--- |
 | 🛠️ | [**0. Meta Tooling**](skills/00-Meta-Tooling.md) | **Meta Tooling**<br>Skill creates templates, testing tools, and universal loaders.|
-| ☁️ | [**1. Software Development**](skills/1.Software_Development.md) | **Software Development**<br>Frontend & backend development, API design, code optimization, algorithm implementation, and programming language support.|
-| 💻 | [**2. DevOps & Infrastructure**](skills/2_DevOps&Infrastructure.md) | **DevOps & Infrastructure**<br>Cloud service management, CI/CD pipelines, containerization deployment, Infrastructure as Code, and server operations.|
-| ⚖️ | [**3. Data, Science & AI**](skills/3_Data,Science&AI.md) | **Data, Science & AI**<br>Data processing & database management, statistical analysis & visualization, AI model training, LLM workflows, and professional computational tool application.|
+| ☁️ | [**1. Software Development**](skills/1-Software_Development.md) | **Software Development**<br>Frontend & backend development, API design, code optimization, algorithm implementation, and programming language support.|
+| 💻 | [**2. DevOps & Infrastructure**](skills/2-DevOps&Infrastructure.md) | **DevOps & Infrastructure**<br>Cloud service management, CI/CD pipelines, containerization deployment, Infrastructure as Code, and server operations.|
+| ⚖️ | [**3. Data, Science & AI**](skills/3-Data,Science&AI.md) | **Data, Science & AI**<br>Data processing & database management, statistical analysis & visualization, AI model training, LLM workflows, and professional computational tool application.|
 | 💼 | [**4. Security & Compliance**](skills/4-Security-Compliance.md) | **Security & Compliance**<br>Penetration testing & vulnerability detection, code security auditing, authentication management, and regulatory compliance & cybersecurity best practices.|
 | 🎨 | [**5. Design & Creative**](skills/5-Design-Creative.md) | **Design & Creative**<br>UI/UX design, graphic asset generation, audio & video processing, and multimedia creation like animation & 3D modeling.|
 | ✍️ | [**6. Productivity & Automation**](skills/6-Productivity-Automation.md) | **Productivity & Automation**<br>Efficiency tool application, workflow automation, browser automation, and scripts for file management & knowledge base organization.|
