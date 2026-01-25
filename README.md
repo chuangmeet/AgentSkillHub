@@ -23,9 +23,9 @@ We adopt the classification method of "Domain ->Scene". Please click on the link
 | 📂 | Domain | Content Introduction |
 | :---: | :--- | :--- |
 | 🛠️ | [**0. Meta Tooling**](skills/00-Meta-Tooling.md) | **Meta Tooling**<br>Skill creates templates, testing tools, and universal loaders.|
-| ☁️ | [**1. Software Development**](skills/1-Software_Development.md) | **Software Development**<br>Frontend & backend development, API design, code optimization, algorithm implementation, and programming language support.|
-| 💻 | [**2. DevOps & Infrastructure**](skills/2-DevOps&Infrastructure.md) | **DevOps & Infrastructure**<br>Cloud service management, CI/CD pipelines, containerization deployment, Infrastructure as Code, and server operations.|
-| ⚖️ | [**3. Data, Science & AI**](skills/3-Data,Science&AI.md) | **Data, Science & AI**<br>Data processing & database management, statistical analysis & visualization, AI model training, LLM workflows, and professional computational tool application.|
+| ☁️ | [**1. Software Development**](skills/1-Software-Development.md) | **Software Development**<br>Frontend & backend development, API design, code optimization, algorithm implementation, and programming language support.|
+| 💻 | [**2. DevOps & Infrastructure**](skills/2-DevOps-Infrastructure.md) | **DevOps & Infrastructure**<br>Cloud service management, CI/CD pipelines, containerization deployment, Infrastructure as Code, and server operations.|
+| ⚖️ | [**3. Data, Science & AI**](skills/3-Data-Science-AI.md) | **Data, Science & AI**<br>Data processing & database management, statistical analysis & visualization, AI model training, LLM workflows, and professional computational tool application.|
 | 💼 | [**4. Security & Compliance**](skills/4-Security-Compliance.md) | **Security & Compliance**<br>Penetration testing & vulnerability detection, code security auditing, authentication management, and regulatory compliance & cybersecurity best practices.|
 | 🎨 | [**5. Design & Creative**](skills/5-Design-Creative.md) | **Design & Creative**<br>UI/UX design, graphic asset generation, audio & video processing, and multimedia creation like animation & 3D modeling.|
 | ✍️ | [**6. Productivity & Automation**](skills/6-Productivity-Automation.md) | **Productivity & Automation**<br>Efficiency tool application, workflow automation, browser automation, and scripts for file management & knowledge base organization.|
